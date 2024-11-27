@@ -3,3 +3,4 @@ editing 1st time.
 now editing from git hub
 
 used git clone to download repo to 2nd pc
+now again editing from git hub and try to pull on both the devices.
